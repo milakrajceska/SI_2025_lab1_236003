@@ -1,0 +1,48 @@
+
+Дел 2
+
+13. git fetch origin
+
+14. git checkout 8-mark-a-task-as-completed-by-name
+
+15. git add SI2025Lab1Main.java
+
+16. git commit -m "Implement Mark a task as completed by name"
+
+17. git push origin 8-mark-a-task-as-completed-by-name
+
+
+
+14. git checkout 2-find-all-completed-tasks
+
+15. git add SI2025Lab1Main.java
+
+16. git commit -m "Implement function Find all completed tasks"
+
+17. git push origin 2-find-all-completed-tasks
+
+
+
+14. git checkout  3-list-tasks-sorted-by-name
+
+15. git add SI2025Lab1Main.java
+
+16. git commit -m "Implement function List tasks sorted by name"
+
+17. git push origin 3-list-tasks-sorted-by-name
+
+
+
+22. git checkout master
+git merge 5-sort-tasks-by-priority
+
+
+23.  git push origin master
+
+25. git log --oneline --graph --all > logs.txt
+git add logs.txt
+git add 236003.txt
+git commit -m "Final commit"
+
+26. git push origin master
+

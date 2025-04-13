@@ -1,0 +1,26 @@
+*   c159deb Merge branch 'master' of https://github.com/milakrajceska/SI_2025_lab1_236003
+|\  
+* | 31dcef3 Implement removeTask method
+| | * 4848f2d Final commit
+| |/  
+| *   2a74ced Merge pull request #12 from milakrajceska/3-list-tasks-sorted-by-name
+| |\  
+| | * e19dc97 Implement function List tasks sorted by name
+| |/  
+| | * e1e3649 WIP on 3-list-tasks-sorted-by-name: 9335757 Merge pull request #11 from milakrajceska/2-find-all-completed-tasks
+| |/| 
+| | * 1d3b210 index on 3-list-tasks-sorted-by-name: 9335757 Merge pull request #11 from milakrajceska/2-find-all-completed-tasks
+| |/  
+| *   9335757 Merge pull request #11 from milakrajceska/2-find-all-completed-tasks
+| |\  
+| | * b81eb02 Implement getAllCompletedTasks method
+| |/  
+|/|   
+| * 4b970d4 Merge pull request #10 from milakrajceska/8-mark-a-task-as-completed-by-name
+|/| 
+| * 2606f4e Implement markTaskCompleted method
+|/  
+| * 67904e9 Implement removeTask method
+|/  
+* 4b440be Add starter code
+* 0fa4d12 Initial commit
